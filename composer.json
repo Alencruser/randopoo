@@ -1,0 +1,8 @@
+{
+    "require": {
+        "j4mie/idiorm": "^1.5"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7"
+    }
+}
